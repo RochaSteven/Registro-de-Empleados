@@ -10,6 +10,15 @@ Para los parametros debemos ingresar los datos de la siguiente manera:
 2. En el segundo agrega el apellido.
 3. En el tercero agregar cualquiera de los siguientes cargos: Administrador, Gerente o Contador.
 
+# Instalación
+
+1. Lo descargamos como archivo zip.
+2. Lo extraemos donde nos parezca mas factible.
+3. Abrimos el Visual studio.
+4. Buscamos la carpeta extraida "ConsoleDeber1".
+5. Una vez dentro de la carpeta en la parte derecha damos clic en programa.cs y lo ejecutamos.
+
+
 # Función
 Lo que hara el sistema sera registrar a los empleados con los roles que les asignemos y automaticamente se vera su sueldo dependiendo el cargo que le pusimos.
 
